@@ -1,0 +1,19 @@
+#This file is the introduction of the implement of four sorting algorithm. 
+
+This project is written with C/C++ language on the platform ubuntu 14.04. All the tests are tested on ubuntu 14.04. 
+
+The program also tested on the machine linprog
+
+For complier the program, you should have g++ version to support c++11 standard.
+
+Type "make" to complier the sorting algorithms
+------------------------------------------
+	./insertionsort data.txt
+------------------------------------------
+	./heapsort data.txt
+------------------------------------------
+	./heapsort data.txt
+------------------------------------------
+	./bonus data.txt
+------------------------------------------
+	./quicksort data.txt
