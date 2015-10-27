@@ -7,6 +7,25 @@ The program also tested on the machine linprog
 For complier the program, you should have g++ version to support c++11 standard.
 
 Type "make" to complier the sorting algorithms
+
+Input and output format
+Here is an example,
+
+Input:
+7 Alex
+3 Maya
+8 Steve
+87 David
+2 Mike
+
+Output:
+2 Mike
+3 Maya
+7 Alex
+8 Steve
+87 David
+
+
 ------------------------------------------
 	./insertionsort data.txt
 ------------------------------------------
